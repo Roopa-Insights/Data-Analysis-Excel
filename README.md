@@ -26,7 +26,7 @@ Cleaned and structured Blinkit sales dataset
 - How do sales differ across various outlet locations?
 - How do all key metrics (total sales, average sales, number of items, average rating) vary by outlet type?
 
-- Dashboard Interactions <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FRoopa-Insights%2FData-Analysis-Excel%2Frefs%2Fheads%2Fmain%2FBlinkIT%2520Grocery%2520Data%2520Excel%2520Dashboard.xlsx&wdOrigin=BROWSELINK">View Dashboard</a>
+- Dashboard Interactions <a href="https://github.com/Roopa-Insights/Data-Analysis-Excel/blob/main/Dashboard%20Image.png">View Dashboard</a>
 
 ## Conclusion
 
